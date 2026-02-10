@@ -1,4 +1,4 @@
-# WEEK 2 - BACKTRACKING (ALL IN ONE)
+# WEEK 2 - BACKTRACKING 
 
 # -------- Assignment 1: N-Queens --------
 # Input:
